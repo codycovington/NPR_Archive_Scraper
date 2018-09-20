@@ -4,3 +4,13 @@ This project allows users to scrape the latest headlines from NPR's website. It 
 
 Try it out at: https://nprarchivescraper.herokuapp.com
 
+Components:
+
+* express
+* express-handlebars
+* mongoose
+* body-parser
+* cheerio
+* axios
+
+
